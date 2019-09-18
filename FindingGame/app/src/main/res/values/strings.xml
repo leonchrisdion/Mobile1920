@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FindingGame</string>
+
+    <string name="instruction_title">TAP!!</string>
+    <string name="instruction_body">Tap the boxes to find the star</string>
+
+    <string name="button_red">RED</string>
+    <string name="button_yellow">YELLOW</string>
+    <string name="button_green">GREEN</string>
+</resources>
