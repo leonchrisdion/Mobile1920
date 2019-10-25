@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Avengers Endgame</string>
+
+        <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="game_title">Avengers Endgame</string>
+    <string name="start_button_text">Start</string>
+    <string name="how_to_play">How to play</string>
+    <string name="how_to_play_body">
+        Welcome to Avengers.
+        You are Informatics. A hero that known by all people in the city. But now, you
+        need to save the world by Thanos Snap. Get all of the stone and restore the erased.
+    </string>
+    <string name="action_button_text">Continue</string>
+    <string name="unlocked_endings">Unlocked Endings</string>
+    <string name="bad_ending">All existence  erased </string>
+    <string name="normal_ending">Thanos erased half of the existence</string>
+    <string name="best_ending"> You are a hero, you restore all existence back to normal </string>
+</resources>
